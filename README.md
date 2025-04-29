@@ -1,7 +1,7 @@
 
 Voir ici -> https://immobiliersimulator.streamlit.app/
 
-# 🏠 Simulateur de Capacité d'Emprunt
+# 🏠 Simulateur de Capacité d'Emprunt + Offre d'achat
 
 Cette application Streamlit permet d’estimer votre **capacité d’emprunt immobilier** en fonction de vos revenus, dépenses, apport personnel, et d'autres critères liés à un prêt immobilier. Elle fournit également une estimation des **frais de notaire** et des **frais de garantie** jusqu'à proposer une offre avec montant pour une "Offre d'achat immobilier".
 
